@@ -1,5 +1,13 @@
 GERADOR DE QR CODE
 
+                                        00000   0   00000   00000   0000    00000   0       0
+                                        0       0   0   0   0       0   0   0   0   0       0
+                                        0000    0   00000   000     00000   00000   0       0
+                                        0       0   0  0    0       0   0   0   0   0       0
+                                        0       0   0   0   00000   0000    0   0   00000   00000
+                                            
+                                                            TECHNOLOGY
+
 Este script em Python gera QR Codes a partir de URLs fornecidas pelo usuário. Com ele, você pode criar rapidamente um QR Code personalizado e salvá-lo como uma imagem no formato .png.
 
 
